@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "uni-read-pages": "^1.0.5",
+    "uni-simple-router": "^2.0.6"
+  },
+  "name": "npm",
+  "description": "生成密码，完全前端加密解密 安全数据记录",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@codeup.aliyun.com:603de6ebb1b9f4a16c02123d/Password-Manager.git"
+  },
+  "author": "",
+  "license": "ISC"
+}

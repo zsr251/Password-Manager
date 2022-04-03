@@ -1,0 +1,107 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "密码生成"
+			},
+			"meta": {
+				"auth": false
+			}
+		},
+		{
+		    "path" : "pages/book/book",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "账号簿",
+		        "enablePullDownRefresh": false
+		    },
+		    "meta": {
+		    	"auth": true
+		    }
+		},
+		{
+			"path": "pages/show-note/show-note",
+			"style": {
+				"navigationBarTitleText": "记录内容"
+			},
+			"meta": {
+				"auth": true
+			}
+		},
+		{
+		    "path" : "pages/my/my",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "我的设置",
+		        "enablePullDownRefresh": false
+		    },
+			"meta": {
+				"auth": true
+			}
+		    
+		},
+        
+        {
+            "path" : "pages/404/404",
+			"name" : "404",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        },
+		{
+		    "path" : "pages/import-pwd/import-pwd",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/new-pwd/new-pwd",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false
+		    }
+		}
+    
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar":{
+		"color":"#7A7E83",
+		"selectedColor":"#d81e06",
+		"borderStyle": "black",
+		"backgroundColor": "#F8F8F8",
+		"list":[
+			{
+				"pagePath":"pages/index/index",
+				"iconPath":"static/tabbar/generate.png",
+				"selectedIconPath":"static/tabbar/generate_cur.png",
+				"text":"密码生成"
+			},
+			{
+				"pagePath":"pages/book/book",
+				"iconPath":"static/tabbar/book.png",
+				"selectedIconPath":"static/tabbar/book_cur.png",
+				"text":"帐号簿"
+			},
+			{
+				"pagePath":"pages/my/my",
+				"iconPath":"static/tabbar/my.png",
+				"selectedIconPath":"static/tabbar/my_cur.png",
+				"text":"我的设置"
+			}
+		]
+		
+	}
+}

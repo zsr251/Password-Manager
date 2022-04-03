@@ -1,0 +1,139 @@
+<script>
+	import Vue from 'vue'
+	export default {
+		onLaunch: function() {
+			Vue.prototype.ColorList = [{
+					title: '嫣红',
+					name: 'red',
+					color: '#e54d42'
+				},
+				{
+					title: '桔橙',
+					name: 'orange',
+					color: '#f37b1d'
+				},
+				{
+					title: '明黄',
+					name: 'yellow',
+					color: '#fbbd08'
+				},
+				{
+					title: '橄榄',
+					name: 'olive',
+					color: '#8dc63f'
+				},
+				{
+					title: '森绿',
+					name: 'green',
+					color: '#39b54a'
+				},
+				{
+					title: '天青',
+					name: 'cyan',
+					color: '#1cbbb4'
+				},
+				{
+					title: '海蓝',
+					name: 'blue',
+					color: '#0081ff'
+				},
+				{
+					title: '姹紫',
+					name: 'purple',
+					color: '#6739b6'
+				},
+				{
+					title: '木槿',
+					name: 'mauve',
+					color: '#9c26b0'
+				},
+				{
+					title: '桃粉',
+					name: 'pink',
+					color: '#e03997'
+				},
+				{
+					title: '棕褐',
+					name: 'brown',
+					color: '#a5673f'
+				},
+				{
+					title: '玄灰',
+					name: 'grey',
+					color: '#8799a3'
+				},
+				{
+					title: '草灰',
+					name: 'gray',
+					color: '#aaaaaa'
+				},
+				{
+					title: '墨黑',
+					name: 'black',
+					color: '#333333'
+				},
+				{
+					title: '雅白',
+					name: 'white',
+					color: '#ffffff'
+				},
+			]
+			console.log('App Launch')
+		},
+		onShow: function() {
+			toLogin()
+			initLock()
+			console.log('App Show')
+		},
+		onHide: function() {
+			console.log('App Hide')
+		}
+	}
+	function initLock(){
+		const lockPwd = uni.getStorageSync('lockPwd');
+		// 如果已经有锁屏密码 则每次展示就要设置需要锁屏
+		if(lockPwd){
+			uni.setStorage({
+				key:'isLock',
+				data: true
+			});
+		}
+	}
+	function toLogin() {
+		const uid = uni.getStorageSync('uid');
+		if(uid){
+			console.log('已登录')
+			return;
+		}
+		uni.login({
+			provider: 'weixin',
+			success: function(res) {
+				uniCloud.callFunction({
+					name: "login-or-register",
+					data: {
+						code:res.code,
+					},
+					success: async ({
+						result
+					}) => {
+						console.log(result);
+						if(result && result._id){
+							uni.setStorage({
+								key:'uid',
+								data: result._id
+							});
+							console.log('登录成功：'+result._id)
+						}
+					}
+				})
+			}
+		});
+	
+	}
+</script>
+
+<style>
+	/*每个页面公共css */
+	@import "common/colorui/main.css";
+	@import "common/colorui/icon.css";
+</style>
