@@ -1,0 +1,357 @@
+{
+  "version": 1772190332427,
+  "baseData": [
+    {
+      "id": 1,
+      "salt": "Ghj+TRXatmHWoRsldVrMrw==",
+      "checkKey": "jBzxTFFO66qdN+s+YN/nkkzZ4GuzeTv4hkKM29A5LPe4TRI=",
+      "dataKey": "N1n88z1Y9yTMaPTdG2N7YWoK46AK6GjtWEsKoSRAw10ZUofvfyBG/Zke6/3YZT5Epl5N1MJqvNE9RwuU",
+      "time": 1772089371557
+    }
+  ],
+  "securityData": [
+    {
+      "id": 1,
+      "question": "1",
+      "answerSalt": "7lo66O2Le48+5uChYIeJmQ==",
+      "resetKey": "qCWGc+OmYnY6bCWCXtdfm/4HqLbm7EtIhr2T1/KDvCZ3Epn+l0XDiflEP/EbVPu4vyNxo4DGbbVAg14k",
+      "time": 1772089334286
+    }
+  ],
+  "tags": [
+    {
+      "label": "工作",
+      "time": 1772081869095,
+      "id": 1,
+      "rank": 1
+    },
+    {
+      "label": "历史",
+      "time": 1772081992178,
+      "id": 2,
+      "rank": 0
+    },
+    {
+      "label": "测试",
+      "time": 1772165809442,
+      "rank": 2,
+      "id": 3
+    },
+    {
+      "label": "列",
+      "time": 1772165813816,
+      "rank": 4,
+      "id": 4
+    },
+    {
+      "label": "裂",
+      "time": 1772165821440,
+      "rank": 3,
+      "id": 6
+    },
+    {
+      "label": "新的标签",
+      "time": 1772166249563,
+      "rank": 5,
+      "id": 7
+    },
+    {
+      "label": "1",
+      "time": 1772167075453,
+      "rank": 6,
+      "id": 8
+    },
+    {
+      "label": "2",
+      "time": 1772167076486,
+      "rank": 7,
+      "id": 9
+    },
+    {
+      "label": "3",
+      "time": 1772167077491,
+      "rank": 8,
+      "id": 10
+    },
+    {
+      "label": "4",
+      "time": 1772167078408,
+      "rank": 9,
+      "id": 11
+    },
+    {
+      "label": "5",
+      "time": 1772167079292,
+      "rank": 10,
+      "id": 12
+    },
+    {
+      "label": "6",
+      "time": 1772167080132,
+      "rank": 11,
+      "id": 13
+    }
+  ],
+  "totps": [
+    {
+      "id": "0af236db-2ff5-45f6-a5f7-3bb6d59ff2b8",
+      "name": "Goog2",
+      "secret": "7Pk5OxR929U0t5X8DhQAVFN4nltSBkfTbM2puLXcpLK9pq3gyovint9+K+vbTSSu0OpdwOe0I7+EuvTp",
+      "digits": 6,
+      "period": 30,
+      "algorithm": "SHA1",
+      "labels": [
+        "工作",
+        "测试"
+      ],
+      "favorite": false,
+      "rank": 1772077303901,
+      "time": 1772175492519,
+      "delFlag": 0
+    },
+    {
+      "id": "140f6eca-1795-4b5e-82e3-085a4d2504be",
+      "name": "MyApp (user@example.com)",
+      "secret": "Ii1+SkuHyDD+0CR5Ch8hP+WMMcF5vgv99qItDI14WXrWglhg3lNVQEGNdb5oKXJ18IfT6yBY4VfPA6Ml",
+      "digits": 6,
+      "period": 30,
+      "algorithm": "SHA1",
+      "labels": [],
+      "favorite": false,
+      "rank": 1772099448567,
+      "time": 1772099448567,
+      "delFlag": 0
+    },
+    {
+      "id": "2d3ca48e-4e65-438d-8406-bf80a8ce49e7",
+      "name": "IT-Tools (demo-user)",
+      "secret": "K+FljFIifDIQ5/kTuNTo0P5V53WZ1wx2GJRGfWpGf2Ij4yXER30Zl8sXsgw=",
+      "digits": 6,
+      "period": 30,
+      "algorithm": "SHA1",
+      "labels": [],
+      "favorite": false,
+      "rank": 1772177075406,
+      "time": 1772177075406,
+      "delFlag": 0
+    },
+    {
+      "id": "8ee58317-7bfd-4093-ac08-3c38d88f1e25",
+      "name": "MyApp (user@example.com)1234567",
+      "secret": "9kiLKBxR4rDt6y7vAmkCqePSYzWnUEcZt0IN2k7LTgsglv2qLiAvuLsYZ1QKzRVBTV4lw5J30d0Tqsw6",
+      "digits": 6,
+      "period": 30,
+      "algorithm": "SHA1",
+      "labels": [],
+      "favorite": false,
+      "rank": 1772175275281,
+      "time": 1772175285706,
+      "delFlag": 0
+    },
+    {
+      "id": "9a4590e1-6b86-4fc9-807e-7babf0922c1f",
+      "name": "MyApp (user@example.com)",
+      "secret": "aoVUOt9jas/CkVfNHGlJgNfvSitZqf+XBJsVacRee6wtJMOKOcC33W22EsM9gc4PdQ6bmRSCF7houob6",
+      "digits": 6,
+      "period": 30,
+      "algorithm": "SHA1",
+      "labels": [],
+      "favorite": false,
+      "rank": 1772175756137,
+      "time": 1772175756137,
+      "delFlag": 0
+    },
+    {
+      "id": "f3b8d81c-525e-4c06-87fe-37ff338fd2ef",
+      "name": "Github11111",
+      "secret": "UIYgSu7ZKTfQ9tk0v5MJA4eW0kou2i8ciE+k9tABHfcxYkZNUL7lkXMFzqazFUcY08RQBIP7swTVP4m8",
+      "digits": 6,
+      "period": 30,
+      "algorithm": "SHA1",
+      "labels": [],
+      "favorite": false,
+      "rank": 1772075335673,
+      "time": 1772099666847,
+      "delFlag": 0
+    }
+  ],
+  "accounts": [
+    {
+      "id": "0911acfb-621e-4e23-a73a-1a3daab6722b",
+      "name": "方法",
+      "labels": [
+        "历史"
+      ],
+      "favorite": true,
+      "time": 1772084240693,
+      "delFlag": 0,
+      "fields": [
+        {
+          "fieldName": "账号",
+          "fieldValue": "9jXuLOHc3Z1PB1BlaF9B6TenK346Ncx9dfDVpF93uJQ="
+        },
+        {
+          "fieldName": "备注",
+          "fieldValue": "FqLWHhV/YLaihAUpIESQG/5xdhZsqI9BazrJk4a8dQ=="
+        }
+      ]
+    },
+    {
+      "id": "1135ea17-0090-48e1-a9fc-13d6991d611e",
+      "name": "🍑子",
+      "labels": [],
+      "favorite": false,
+      "time": 1772084207742,
+      "delFlag": 0,
+      "fields": [
+        {
+          "fieldName": "账号",
+          "fieldValue": "rXYecRp7Jy7XSSLhV6oXSD1pF+5oXDsMJxZ8Zo3nx3NeLA=="
+        },
+        {
+          "fieldName": "备注",
+          "fieldValue": "ddHESDDodth0DxcIexSkxZr/3/juEKHwGRFbcw=="
+        }
+      ]
+    },
+    {
+      "id": "2f91537a-4974-4859-b9b3-3737cd609ce9",
+      "name": "淘宝中7",
+      "labels": [],
+      "favorite": false,
+      "time": 1772084186428,
+      "delFlag": 0,
+      "fields": [
+        {
+          "fieldName": "账号",
+          "fieldValue": "YkHpwzfqQHU7Zt+MHhXKz0Q6PaUvlOXliasUwwZBoxJdVSE="
+        },
+        {
+          "fieldName": "密码",
+          "fieldValue": "AxGrJAXP06uLaUCKhBPhi7hP0uPLwwpc+/FBTRtgXAETHgcR"
+        },
+        {
+          "fieldName": "备注",
+          "fieldValue": "cDmtHjznX59M/r5An5yubVhhj7fEtvKmSBe58u+2b8TV628XC6q0JaSRyE3+"
+        }
+      ]
+    },
+    {
+      "id": "60b8b71b-3a99-4abf-ba4e-9b9e63ecad6c",
+      "name": "列4",
+      "labels": [],
+      "favorite": false,
+      "time": 1772084152271,
+      "delFlag": 0,
+      "fields": [
+        {
+          "fieldName": "账号",
+          "fieldValue": "M2nWCxdljBttg0kZHmn6E0Ez4kOx8fgIpJAUXs6MZqOp2w=="
+        }
+      ]
+    },
+    {
+      "id": "628b6e9a-a271-4edc-8e95-3de244d7356f",
+      "name": "路径多行",
+      "labels": [],
+      "favorite": false,
+      "time": 1772084329541,
+      "delFlag": 0,
+      "fields": [
+        {
+          "fieldName": "账号",
+          "fieldValue": "SAtb2U2L/FhFeIdnWc9T+tW/O4DEQ7tnKxOV5A=="
+        },
+        {
+          "fieldName": "密码",
+          "fieldValue": "isaW28Bjd3taHc0p/RCIG1yAud2vYc7AAwqg/w=="
+        },
+        {
+          "fieldName": "备注",
+          "fieldValue": "/T4cxhbOMyhYKavb3sxeHqnQ0P/IrOCf+pZ06fttnIeh26Tx2JHDFdSH9757wpVCk7S6liSW+OcjAaqIKwPIwv8zx6XFSvrhQf6ak4hVnUU9PGJDsCt/Z6UI4nijo65xTMGZWvM9LfXK5DG012X68GsDXDwOs+43nGEoYc2rJSdcg9EwexGiTfRQCti3C3V/cIYozmUIDxazjUiCU9yPKKpxgydn7L+5M8+tdGIVlD31BhW4dhR48+FLfjjx"
+        }
+      ]
+    },
+    {
+      "id": "6b958e6d-7da7-4073-8ffc-27156f33fedb",
+      "name": "套2",
+      "labels": [],
+      "favorite": false,
+      "time": 1772165902816,
+      "delFlag": 0,
+      "fields": [
+        {
+          "fieldName": "账号",
+          "fieldValue": "CqUxmqJELl25PMQy9wCKC6adtalRauzoFh9J89Pfpw=="
+        },
+        {
+          "fieldName": "密码",
+          "fieldValue": "OJBPrfs3tmBD4eBDTM3hUAI/b03tRfXQp8QeleGmzTBJZ3t7Zbp1La6n"
+        },
+        {
+          "fieldName": "嗷嗷",
+          "fieldValue": "eNNva6oo71r+4+6vjzNb3JUFkPNtQc+qvj8Nvps="
+        },
+        {
+          "fieldName": "备注",
+          "fieldValue": "X5jwhTiPEHIv5J8YCmnwdeezbcbgX29ioqaUtEF9"
+        },
+        {
+          "fieldName": "附件",
+          "fieldValue": "3YOdwTCpL8eTnAtSGL7l3tAl2PfBfXFIZjxMnmc="
+        },
+        {
+          "fieldName": "方法",
+          "fieldValue": "BlpHG3zNbwekbV1+pHDaxQ0yZ3wnbENe9eTt4qE="
+        },
+        {
+          "fieldName": "乖乖",
+          "fieldValue": "XtaHcQGSp46HdQb6IWB1AmaGpSzKYnFfDB1W4A0="
+        },
+        {
+          "fieldName": "方法",
+          "fieldValue": "cOvs0JPtabLz/IPE90ckuaqATZ2Uv81n2qUP65NoPg=="
+        }
+      ]
+    },
+    {
+      "id": "c9433137-8cd0-4268-990a-101817feb409",
+      "name": "淘宝",
+      "labels": [
+        "工作",
+        "历史"
+      ],
+      "favorite": true,
+      "time": 1772167529533,
+      "delFlag": 0,
+      "fields": [
+        {
+          "fieldName": "账号",
+          "fieldValue": "JOG6t9SH7dGRdd4YOlEAGbbL+0OvkOzJ2+OfPS/PcA=="
+        },
+        {
+          "fieldName": "备注",
+          "fieldValue": "No/vyUiFY2uW1Z3nbH7GQcDyLTI6WKlPg0hgrgH8rt8j3Vk3wS3lYw=="
+        },
+        {
+          "fieldName": "密码",
+          "fieldValue": "o+FVTRisEa0bxLvIqZWnDpE41nJu8dcbC9pQM379vQ=="
+        },
+        {
+          "fieldName": "二次密码",
+          "fieldValue": "7Z2Ic+Z+IN0u/5vHkm24xdqnnKrr822cfh9CiYxPETCva15RO+Dk8OZKsnP1rMqXDg=="
+        }
+      ]
+    }
+  ],
+  "syncData": [
+    {
+      "id": 1,
+      "type": "git",
+      "config": "k5rgFBWaYCcCCQbORNFwKfTW7/hunGPOiEK5df4O93ZmQ+Nb1YaOzb7mmblZumeHN2aUTznGKs+b3kZtEEXyTdwiq+ogW060n/58NCAmCjPWtsSaDC9u4a4Jf4E09uAIUsdsLhW7S+WWEZqU5hd+62V5i4SF7UwzcUo4KzTj/eMYrVMTwQGKyZW0clNKUPNvzIOLRHHa8EFnFZWZj54BeWNd88bXR57rdLKFJuvhsVLZuLQUu1sGyKUyvZurPHlsuaHfBWXCFh/Npz8qWtpcKcNmIcrYjbfXKxMFjw==",
+      "lastPush": 1772190327983,
+      "lastPull": 0,
+      "latestVersion": 0
+    }
+  ]
+}
