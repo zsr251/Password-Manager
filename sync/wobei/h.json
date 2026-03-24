@@ -1,0 +1,181 @@
+[
+  {
+    "id": "hello::1773045995246",
+    "word": "hello",
+    "phonetic": "",
+    "translations": [
+      "\"Hello!\" or an equivalent greeting.",
+      "To greet with \"hello\".",
+      "A greeting (salutation) said when meeting someone or acknowledging someone’s arrival or presence."
+    ],
+    "examples": [
+      {
+        "en": "Hello, everyone.",
+        "zh": ""
+      },
+      {
+        "en": "Hello? How may I help you?",
+        "zh": ""
+      },
+      {
+        "en": "Hello? Is anyone there?",
+        "zh": ""
+      }
+    ],
+    "audioRemoteUrl": "https://api.dictionaryapi.dev/media/pronunciations/en/hello-au.mp3",
+    "audioBlobKey": "hello",
+    "imageUrls": [],
+    "fsrs": {
+      "due": "2026-03-28T07:13:58.187Z",
+      "stability": 10.21583366032959,
+      "difficulty": 4.3,
+      "elapsedDays": 9,
+      "scheduledDays": 10,
+      "reps": 2,
+      "lapses": 1,
+      "state": "review",
+      "lastReview": "2026-03-18T07:13:58.187Z"
+    },
+    "createdAt": "2026-03-09T08:46:35.246Z",
+    "updatedAt": "2026-03-18T08:34:12.086Z",
+    "deleted": true
+  },
+  {
+    "id": "hello::1773111621191",
+    "word": "hello",
+    "phonetic": "/həˈləʊ/",
+    "phoneticUk": "/həˈləʊ/",
+    "phoneticUs": "",
+    "stressPattern": "/həˈləʊ/",
+    "translations": [
+      "\"Hello!\" or an equivalent greeting.",
+      "To greet with \"hello\".",
+      "A greeting (salutation) said when meeting someone or acknowledging someone’s arrival or presence."
+    ],
+    "examples": [
+      {
+        "en": "Hello, everyone.",
+        "zh": ""
+      },
+      {
+        "en": "Hello? How may I help you?",
+        "zh": ""
+      },
+      {
+        "en": "Hello? Is anyone there?",
+        "zh": ""
+      }
+    ],
+    "audioRemoteUrl": "https://api.dictionaryapi.dev/media/pronunciations/en/hello-au.mp3",
+    "audioRemoteUrlUk": "https://api.dictionaryapi.dev/media/pronunciations/en/hello-uk.mp3",
+    "audioRemoteUrlUs": "https://api.dictionaryapi.dev/media/pronunciations/en/hello-au.mp3",
+    "audioBlobKey": "hello",
+    "imageUrls": [],
+    "fsrs": {
+      "due": "2026-03-22T07:15:30.368Z",
+      "stability": 3.976455017219467,
+      "difficulty": 4.300000000000001,
+      "elapsedDays": 8,
+      "scheduledDays": 4,
+      "reps": 2,
+      "lapses": 0,
+      "state": "review",
+      "lastReview": "2026-03-18T07:15:30.368Z"
+    },
+    "createdAt": "2026-03-10T03:00:21.191Z",
+    "updatedAt": "2026-03-18T08:27:16.534Z",
+    "deleted": true
+  },
+  {
+    "id": "hello::1773818376536",
+    "word": "hello",
+    "phonetic": "/həˈləʊ/",
+    "phoneticUk": "/həˈləʊ/",
+    "phoneticUs": "",
+    "stressPattern": "/həˈləʊ/",
+    "translations": [
+      "\"Hello!\" or an equivalent greeting.",
+      "To greet with \"hello\".",
+      "A greeting (salutation) said when meeting someone or acknowledging someone’s arrival or presence."
+    ],
+    "examples": [
+      {
+        "en": "Hello, everyone.",
+        "zh": ""
+      },
+      {
+        "en": "Hello? How may I help you?",
+        "zh": ""
+      },
+      {
+        "en": "Hello? Is anyone there?",
+        "zh": ""
+      }
+    ],
+    "audioRemoteUrl": "https://api.dictionaryapi.dev/media/pronunciations/en/hello-au.mp3",
+    "audioRemoteUrlUk": "https://api.dictionaryapi.dev/media/pronunciations/en/hello-uk.mp3",
+    "audioRemoteUrlUs": "https://api.dictionaryapi.dev/media/pronunciations/en/hello-au.mp3",
+    "audioBlobKey": "hello",
+    "imageUrls": [],
+    "fsrs": {
+      "due": "2026-03-19T08:26:41.643Z",
+      "stability": 0.4,
+      "difficulty": 4.65,
+      "elapsedDays": 0,
+      "scheduledDays": 1,
+      "reps": 1,
+      "lapses": 0,
+      "state": "learning",
+      "lastReview": "2026-03-18T08:26:41.643Z"
+    },
+    "createdAt": "2026-03-18T07:19:36.536Z",
+    "updatedAt": "2026-03-18T08:27:32.211Z",
+    "deleted": true
+  },
+  {
+    "id": "hello::1773823043586",
+    "word": "hello",
+    "phonetic": "/həˈləʊ/",
+    "phoneticUk": "/həˈləʊ/",
+    "phoneticUs": "",
+    "stressPattern": "/həˈləʊ/",
+    "translations": [
+      "\"Hello!\" or an equivalent greeting.",
+      "To greet with \"hello\".",
+      "A greeting (salutation) said when meeting someone or acknowledging someone’s arrival or presence."
+    ],
+    "examples": [
+      {
+        "en": "Hello, everyone.",
+        "zh": ""
+      },
+      {
+        "en": "Hello? How may I help you?",
+        "zh": ""
+      },
+      {
+        "en": "Hello? Is anyone there?",
+        "zh": ""
+      }
+    ],
+    "audioRemoteUrl": "https://api.dictionaryapi.dev/media/pronunciations/en/hello-au.mp3",
+    "audioRemoteUrlUk": "https://api.dictionaryapi.dev/media/pronunciations/en/hello-uk.mp3",
+    "audioRemoteUrlUs": "https://api.dictionaryapi.dev/media/pronunciations/en/hello-au.mp3",
+    "audioBlobKey": "hello",
+    "imageUrls": [],
+    "fsrs": {
+      "due": "2026-04-12T11:14:05.000Z",
+      "stability": 20.624941963794974,
+      "difficulty": 5,
+      "elapsedDays": 4,
+      "scheduledDays": 21,
+      "reps": 2,
+      "lapses": 0,
+      "state": "review",
+      "lastReview": "2026-03-22T11:14:05.000Z"
+    },
+    "createdAt": "2026-03-18T08:37:23.586Z",
+    "updatedAt": "2026-03-22T11:46:34.861Z",
+    "deleted": true
+  }
+]
