@@ -182,6 +182,49 @@
     "deleted": true
   },
   {
+    "id": "those::1774318481287",
+    "word": "those",
+    "phonetic": "",
+    "phoneticUk": "",
+    "phoneticUs": "",
+    "stressPattern": "",
+    "translations": [
+      "那些"
+    ],
+    "examples": [
+      {
+        "en": "I am trying to memorize those.",
+        "zh": "我正在记忆 those。"
+      },
+      {
+        "en": "Please use those in a sentence.",
+        "zh": "请用 those 造句。"
+      },
+      {
+        "en": "Review those before sleeping.",
+        "zh": "睡前复习 those。"
+      }
+    ],
+    "audioRemoteUrl": "http://dict.youdao.com/dictvoice?type=0&audio=those",
+    "audioRemoteUrlUk": "http://dict.youdao.com/dictvoice?type=1&audio=those",
+    "audioRemoteUrlUs": "http://dict.youdao.com/dictvoice?type=0&audio=those",
+    "audioBlobKey": "those",
+    "imageUrls": [],
+    "fsrs": {
+      "due": "2026-03-24T02:14:41.287Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsedDays": 0,
+      "scheduledDays": 0,
+      "learningSteps": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": "new"
+    },
+    "createdAt": "2026-03-24T02:14:41.287Z",
+    "updatedAt": "2026-03-24T02:14:41.287Z"
+  },
+  {
     "id": "throw::1774228454044",
     "word": "throw",
     "phonetic": "/θɹəʊ/",
