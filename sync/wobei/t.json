@@ -1,0 +1,230 @@
+[
+  {
+    "id": "that::1773824378702",
+    "word": "that",
+    "phonetic": "/ˈðæt/",
+    "phoneticUk": "/ˈðæt/",
+    "phoneticUs": "",
+    "stressPattern": "/ˈðæt/",
+    "translations": [
+      "Something being indicated that is there; one of those.",
+      "(degree) To a given extent or degree.",
+      "(degree) To a great extent or degree; very, particularly (in negative constructions)."
+    ],
+    "examples": [
+      {
+        "en": "\"The ribbon was that thin.\" \"I disagree, I say it was not that thin, it was thicker... or maybe thinner...\"",
+        "zh": ""
+      },
+      {
+        "en": "I did the run last year, and it wasn't that difficult.",
+        "zh": ""
+      },
+      {
+        "en": "Ooh, I was that happy I nearly kissed her.",
+        "zh": ""
+      }
+    ],
+    "audioRemoteUrl": "https://api.dictionaryapi.dev/media/pronunciations/en/that-us.mp3",
+    "audioRemoteUrlUk": "",
+    "audioRemoteUrlUs": "https://api.dictionaryapi.dev/media/pronunciations/en/that-us.mp3",
+    "audioBlobKey": "that",
+    "imageUrls": [],
+    "fsrs": {
+      "due": "2026-03-30T10:39:43.516Z",
+      "stability": 8.149019909499989,
+      "difficulty": 5,
+      "elapsedDays": 4,
+      "scheduledDays": 8,
+      "reps": 1,
+      "lapses": 0,
+      "state": "learning",
+      "lastReview": "2026-03-22T10:39:43.516Z"
+    },
+    "createdAt": "2026-03-18T08:59:38.702Z",
+    "updatedAt": "2026-03-22T10:39:43.516Z"
+  },
+  {
+    "id": "think::1774178019386",
+    "word": "think",
+    "phonetic": "/θɪŋk/",
+    "phoneticUk": "/θɪŋk/",
+    "phoneticUs": "/θɪŋk/",
+    "stressPattern": "",
+    "translations": [
+      "一种思考的行为；考虑（某事）。",
+      "沉思，在头脑中反复思考。",
+      "与自己的思想进行交流，尝试找到问题的解决方案。"
+    ],
+    "examples": [
+      {
+        "en": "I'll have a think about that and let you know.",
+        "zh": "我会考虑一下并告诉你。"
+      },
+      {
+        "en": "Idly, the detective thought what his next move should be.",
+        "zh": "侦探漫不经心地思考下一步应该做什么。"
+      },
+      {
+        "en": "I thought for three hours about the problem and still couldn’t find the solution.",
+        "zh": "我思考了三个小时，仍然没有找到解决方案。"
+      }
+    ],
+    "audioRemoteUrl": "http://dict.youdao.com/dictvoice?type=0&audio=think",
+    "audioRemoteUrlUk": "http://dict.youdao.com/dictvoice?type=1&audio=think",
+    "audioRemoteUrlUs": "http://dict.youdao.com/dictvoice?type=0&audio=think",
+    "audioBlobKey": "think",
+    "imageUrls": [],
+    "fsrs": {
+      "due": "2026-03-23T11:14:40.417Z",
+      "stability": 0.24378934005110237,
+      "difficulty": 4.3,
+      "elapsedDays": 0,
+      "scheduledDays": 1,
+      "reps": 1,
+      "lapses": 1,
+      "state": "learning",
+      "lastReview": "2026-03-22T11:14:40.417Z"
+    },
+    "createdAt": "2026-03-22T11:13:39.386Z",
+    "updatedAt": "2026-03-22T11:14:40.417Z"
+  },
+  {
+    "id": "this::1773824363938",
+    "word": "this",
+    "phonetic": "/ðəs/",
+    "phoneticUk": "/ðəs/",
+    "phoneticUs": "/ðəs/",
+    "stressPattern": "",
+    "translations": [
+      "Something being indicated that is here; one of these.",
+      "Referring to the current context in a programming environment in C-like languages.",
+      "To the degree or extent indicated."
+    ],
+    "examples": [
+      {
+        "en": "Do we need this many recommendations?",
+        "zh": ""
+      },
+      {
+        "en": "This isn't the item that I ordered.",
+        "zh": ""
+      },
+      {
+        "en": "This is an example for this.",
+        "zh": ""
+      }
+    ],
+    "audioRemoteUrl": "https://api.dictionaryapi.dev/media/pronunciations/en/this-us.mp3",
+    "audioRemoteUrlUk": "https://api.dictionaryapi.dev/media/pronunciations/en/this-us.mp3",
+    "audioRemoteUrlUs": "https://api.dictionaryapi.dev/media/pronunciations/en/this-us.mp3",
+    "audioBlobKey": "this",
+    "imageUrls": [],
+    "fsrs": {
+      "due": "2026-03-30T10:39:34.081Z",
+      "stability": 8.149019909499989,
+      "difficulty": 5,
+      "elapsedDays": 4,
+      "scheduledDays": 8,
+      "reps": 1,
+      "lapses": 0,
+      "state": "learning",
+      "lastReview": "2026-03-22T10:39:34.081Z"
+    },
+    "createdAt": "2026-03-18T08:59:23.938Z",
+    "updatedAt": "2026-03-22T11:46:22.326Z",
+    "deleted": true
+  },
+  {
+    "id": "those::1773824432546",
+    "word": "those",
+    "phonetic": "/ðəʊz/",
+    "phoneticUk": "/ðoʊz/",
+    "phoneticUs": "/ðoʊz/",
+    "stressPattern": "",
+    "translations": [
+      "(demonstrative) The thing, person, idea, quality, event, action or time indicated or understood from context, especially if more remote geographically, temporally or mentally than one designated as \"this\", or if expressing distinction.",
+      "The known (thing); used to refer to something just said.",
+      "(demonstrative) The aforementioned quality or proposition; used to emphatically affirm or deny a previous statement or question."
+    ],
+    "examples": [
+      {
+        "en": "He went home, and after that I never saw him again.",
+        "zh": ""
+      },
+      {
+        "en": "They're getting divorced. What do you think about that?",
+        "zh": ""
+      },
+      {
+        "en": "The water is so cold! — That it is.",
+        "zh": ""
+      }
+    ],
+    "audioRemoteUrl": "https://api.dictionaryapi.dev/media/pronunciations/en/those-us.mp3",
+    "audioRemoteUrlUk": "https://api.dictionaryapi.dev/media/pronunciations/en/those-us.mp3",
+    "audioRemoteUrlUs": "https://api.dictionaryapi.dev/media/pronunciations/en/those-us.mp3",
+    "audioBlobKey": "those",
+    "imageUrls": [],
+    "fsrs": {
+      "due": "2026-04-10T11:13:59.435Z",
+      "stability": 19.4451536825736,
+      "difficulty": 5.35,
+      "elapsedDays": 4,
+      "scheduledDays": 19,
+      "reps": 1,
+      "lapses": 0,
+      "state": "learning",
+      "lastReview": "2026-03-22T11:13:59.435Z"
+    },
+    "createdAt": "2026-03-18T09:00:32.546Z",
+    "updatedAt": "2026-03-22T11:46:32.491Z",
+    "deleted": true
+  },
+  {
+    "id": "throw::1774228454044",
+    "word": "throw",
+    "phonetic": "/θɹəʊ/",
+    "phoneticUk": "/θɹəʊ/",
+    "phoneticUs": "/θɹoʊ/",
+    "stressPattern": "",
+    "translations": [
+      "要换地方。",
+      "改变状态或状况",
+      "穿越时空。"
+    ],
+    "examples": [
+      {
+        "en": "What a great throw by the quarterback!",
+        "zh": "四分卫的投球多棒啊！"
+      },
+      {
+        "en": "The gambler staked everything on one throw of the dice.",
+        "zh": "赌徒把所有的赌注都押在了骰子上。"
+      },
+      {
+        "en": "He's always had a pretty decent throw.",
+        "zh": "他的投球总是相当不错。"
+      }
+    ],
+    "audioRemoteUrl": "http://dict.youdao.com/dictvoice?type=0&audio=throw",
+    "audioRemoteUrlUk": "http://dict.youdao.com/dictvoice?type=1&audio=throw",
+    "audioRemoteUrlUs": "http://dict.youdao.com/dictvoice?type=0&audio=throw",
+    "audioBlobKey": "throw",
+    "imageUrls": [],
+    "fsrs": {
+      "due": "2026-03-23T01:23:40.369Z",
+      "stability": 0.212,
+      "difficulty": 6.4133,
+      "elapsedDays": 0,
+      "scheduledDays": 0,
+      "learningSteps": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": "learning",
+      "lastReview": "2026-03-23T01:22:40.369Z"
+    },
+    "createdAt": "2026-03-23T01:14:14.044Z",
+    "updatedAt": "2026-03-23T01:22:40.369Z"
+  }
+]
