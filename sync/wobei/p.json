@@ -1,0 +1,93 @@
+[
+  {
+    "id": "project::1773824637365",
+    "word": "project",
+    "phonetic": "",
+    "phoneticUk": "",
+    "phoneticUs": "",
+    "stressPattern": "",
+    "translations": [
+      "有计划的努力，通常具有特定目标并分几个步骤或阶段完成。",
+      "（通常为复数）城市保障性住房建筑。",
+      "闲置的计划",
+      "不切实际的设计。"
+    ],
+    "examples": [
+      {
+        "en": "Projects like Pruitt-Igoe were considered irreparably dangerous and demolished.",
+        "zh": ""
+      },
+      {
+        "en": "a man given to projects",
+        "zh": ""
+      },
+      {
+        "en": "The CEO is projecting the completion of the acquisition by April 2007.",
+        "zh": ""
+      }
+    ],
+    "audioRemoteUrl": "https://dict.youdao.com/dictvoice?audio=project&type=2",
+    "audioRemoteUrlUk": "https://dict.youdao.com/dictvoice?audio=project&type=1",
+    "audioRemoteUrlUs": "https://dict.youdao.com/dictvoice?audio=project&type=2",
+    "audioBlobKey": "project",
+    "imageUrls": [],
+    "fsrs": {
+      "due": "2026-04-10T11:14:02.066Z",
+      "stability": 19.4451536825736,
+      "difficulty": 5.35,
+      "elapsedDays": 4,
+      "scheduledDays": 19,
+      "reps": 1,
+      "lapses": 0,
+      "state": "learning",
+      "lastReview": "2026-03-22T11:14:02.066Z"
+    },
+    "createdAt": "2026-03-18T09:03:57.365Z",
+    "updatedAt": "2026-03-22T11:46:29.157Z",
+    "deleted": true
+  },
+  {
+    "id": "project::1774228441592",
+    "word": "project",
+    "phonetic": "",
+    "phoneticUk": "",
+    "phoneticUs": "",
+    "stressPattern": "",
+    "translations": [
+      "项目"
+    ],
+    "examples": [
+      {
+        "en": "I am trying to memorize project.",
+        "zh": "我正在记忆 project。"
+      },
+      {
+        "en": "Please use project in a sentence.",
+        "zh": "请用 project 造句。"
+      },
+      {
+        "en": "Review project before sleeping.",
+        "zh": "睡前复习 project。"
+      }
+    ],
+    "audioRemoteUrl": "http://dict.youdao.com/dictvoice?type=0&audio=project",
+    "audioRemoteUrlUk": "http://dict.youdao.com/dictvoice?type=1&audio=project",
+    "audioRemoteUrlUs": "http://dict.youdao.com/dictvoice?type=0&audio=project",
+    "audioBlobKey": "project",
+    "imageUrls": [],
+    "fsrs": {
+      "due": "2026-03-31T01:22:24.494Z",
+      "stability": 8.2956,
+      "difficulty": 1,
+      "elapsedDays": 0,
+      "scheduledDays": 8,
+      "learningSteps": 0,
+      "reps": 1,
+      "lapses": 0,
+      "state": "review",
+      "lastReview": "2026-03-23T01:22:24.494Z"
+    },
+    "createdAt": "2026-03-23T01:14:01.591Z",
+    "updatedAt": "2026-03-23T01:22:24.494Z"
+  }
+]
