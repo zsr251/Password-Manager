@@ -1,0 +1,46 @@
+[
+  {
+    "id": "a::1773047800918",
+    "word": "a",
+    "phonetic": "/æɪ/",
+    "phoneticUk": "/eɪ/",
+    "phoneticUs": "/eɪ/",
+    "stressPattern": "",
+    "translations": [
+      "The name of the Latin script letter A/a."
+    ],
+    "examples": [
+      {
+        "en": "Do you have the answer for 23a?",
+        "zh": ""
+      },
+      {
+        "en": "Stand a tiptoe.",
+        "zh": ""
+      },
+      {
+        "en": "Torn a pieces.",
+        "zh": ""
+      }
+    ],
+    "audioRemoteUrl": "https://api.dictionaryapi.dev/media/pronunciations/en/a-1-us.mp3",
+    "audioRemoteUrlUk": "",
+    "audioRemoteUrlUs": "https://api.dictionaryapi.dev/media/pronunciations/en/a-1-us.mp3",
+    "audioBlobKey": "a",
+    "imageUrls": [],
+    "fsrs": {
+      "due": "2026-03-22T07:14:39.134Z",
+      "stability": 3.760049398165787,
+      "difficulty": 5,
+      "elapsedDays": 9,
+      "scheduledDays": 4,
+      "reps": 2,
+      "lapses": 0,
+      "state": "review",
+      "lastReview": "2026-03-18T07:14:39.134Z"
+    },
+    "createdAt": "2026-03-09T09:16:40.918Z",
+    "updatedAt": "2026-03-18T08:33:54.003Z",
+    "deleted": true
+  }
+]
