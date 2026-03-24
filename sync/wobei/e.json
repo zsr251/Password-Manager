@@ -1,0 +1,49 @@
+[
+  {
+    "id": "excuse::1774176041116",
+    "word": "excuse",
+    "phonetic": "",
+    "phoneticUk": "",
+    "phoneticUs": "",
+    "stressPattern": "",
+    "translations": [
+      "旨在避免或减轻内疚或负面判断的解释",
+      "为减轻过失而提出的抗辩。",
+      "对刑事或民事指控的辩护，其中被告人承认其行为通常会产生适当的法律后果，但声称特殊情况可以免除该方因实施这些行为而承担的责任。",
+      "（前面带有否定形容词，尤其是抱歉、可怜或蹩脚）不合格或质量低劣的事物的例子。"
+    ],
+    "examples": [
+      {
+        "en": "Tell me why you were late – and I don't want to hear any excuses!",
+        "zh": "告诉我你迟到的原因——我不想听到任何借口！"
+      },
+      {
+        "en": "He's a sorry excuse of a doctor.",
+        "zh": "他是一个医生的抱歉借口。"
+      },
+      {
+        "en": "I excused him his transgressions.",
+        "zh": "我原谅了他的过失。"
+      }
+    ],
+    "audioRemoteUrl": "https://dict.youdao.com/dictvoice?audio=excuse&type=2",
+    "audioRemoteUrlUk": "https://dict.youdao.com/dictvoice?audio=excuse&type=1",
+    "audioRemoteUrlUs": "https://dict.youdao.com/dictvoice?audio=excuse&type=2",
+    "audioBlobKey": "excuse",
+    "imageUrls": [],
+    "fsrs": {
+      "due": "2026-03-23T11:14:08.805Z",
+      "stability": 0.4,
+      "difficulty": 5.35,
+      "elapsedDays": 0,
+      "scheduledDays": 1,
+      "reps": 1,
+      "lapses": 0,
+      "state": "learning",
+      "lastReview": "2026-03-22T11:14:08.805Z"
+    },
+    "createdAt": "2026-03-22T10:40:41.116Z",
+    "updatedAt": "2026-03-22T11:46:41.766Z",
+    "deleted": true
+  }
+]
