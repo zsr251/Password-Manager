@@ -1,0 +1,93 @@
+[
+  {
+    "id": "like::1774179707105",
+    "word": "like",
+    "phonetic": "/laɪk/",
+    "phoneticUk": "/laɪk/",
+    "phoneticUs": "/laɪk/",
+    "stressPattern": "",
+    "translations": [
+      "（通常为复数）一个人喜欢（喜欢）的东西。",
+      "个人投票表示对互联网上发布的某些内容的支持或批准。",
+      "享受，感到高兴；青睐；赞成。"
+    ],
+    "examples": [
+      {
+        "en": "Tell me your likes and dislikes.",
+        "zh": "告诉我你的喜欢和不喜欢。"
+      },
+      {
+        "en": "I like hamburgers.",
+        "zh": "我喜欢汉堡包。"
+      },
+      {
+        "en": "I like to go to the dentist every six months.",
+        "zh": "我喜欢每六个月去看一次牙医。"
+      }
+    ],
+    "audioRemoteUrl": "http://dict.youdao.com/dictvoice?type=0&audio=like",
+    "audioRemoteUrlUk": "http://dict.youdao.com/dictvoice?type=1&audio=like",
+    "audioRemoteUrlUs": "http://dict.youdao.com/dictvoice?type=0&audio=like",
+    "audioBlobKey": "like",
+    "imageUrls": [],
+    "fsrs": {
+      "due": "2026-03-24T01:22:11.687Z",
+      "stability": 0.90201439,
+      "difficulty": 8.90829661,
+      "elapsedDays": 1,
+      "scheduledDays": 1,
+      "learningSteps": 0,
+      "reps": 4,
+      "lapses": 0,
+      "state": "review",
+      "lastReview": "2026-03-23T01:22:11.687Z"
+    },
+    "createdAt": "2026-03-22T11:41:47.105Z",
+    "updatedAt": "2026-03-23T01:22:11.687Z"
+  },
+  {
+    "id": "local::1773823073612",
+    "word": "local",
+    "phonetic": "/ˈləʊkl̩/",
+    "phoneticUk": "/ˈloʊkl̩/",
+    "phoneticUs": "/ˈloʊkl̩/",
+    "stressPattern": "/ˈləʊkl̩/",
+    "translations": [
+      "有A branch of a nationwide organization such as a trade union.",
+      "A train that stops at all, or almost all, stations between its origin and destination, including very small ones."
+    ],
+    "examples": [
+      {
+        "en": "It's easy to tell the locals from the tourists.",
+        "zh": ""
+      },
+      {
+        "en": "I'm in the TWU, too. Local 6.",
+        "zh": ""
+      },
+      {
+        "en": "The expresses skipped my station, so I had to take a local.",
+        "zh": ""
+      }
+    ],
+    "audioRemoteUrl": "https://dict.youdao.com/dictvoice?audio=local&type=2",
+    "audioRemoteUrlUk": "https://dict.youdao.com/dictvoice?audio=local&type=1",
+    "audioRemoteUrlUs": "https://dict.youdao.com/dictvoice?audio=local&type=2",
+    "audioBlobKey": "local",
+    "imageUrls": [],
+    "fsrs": {
+      "due": "2026-04-09T11:14:06.673Z",
+      "stability": 18.26536540135223,
+      "difficulty": 5.699999999999999,
+      "elapsedDays": 4,
+      "scheduledDays": 18,
+      "reps": 2,
+      "lapses": 0,
+      "state": "review",
+      "lastReview": "2026-03-22T11:14:06.673Z"
+    },
+    "createdAt": "2026-03-18T08:37:53.612Z",
+    "updatedAt": "2026-03-22T11:46:37.291Z",
+    "deleted": true
+  }
+]
