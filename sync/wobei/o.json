@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ok::1774179698235",
+    "word": "ok",
+    "phonetic": "",
+    "phoneticUk": "",
+    "phoneticUs": "",
+    "stressPattern": "",
+    "translations": [
+      "好的"
+    ],
+    "examples": [
+      {
+        "en": "I am trying to memorize ok.",
+        "zh": "我正在记忆 ok。"
+      },
+      {
+        "en": "Please use ok in a sentence.",
+        "zh": "请用 ok 造句。"
+      },
+      {
+        "en": "Review ok before sleeping.",
+        "zh": "睡前复习 ok。"
+      }
+    ],
+    "audioRemoteUrl": "http://dict.youdao.com/dictvoice?type=0&audio=ok",
+    "audioRemoteUrlUk": "http://dict.youdao.com/dictvoice?type=1&audio=ok",
+    "audioRemoteUrlUs": "http://dict.youdao.com/dictvoice?type=0&audio=ok",
+    "audioBlobKey": "ok",
+    "imageUrls": [],
+    "fsrs": {
+      "due": "2026-03-22T11:46:33.009Z",
+      "stability": 0.08335672,
+      "difficulty": 8.80630447,
+      "elapsedDays": 0,
+      "scheduledDays": 0,
+      "learningSteps": 0,
+      "reps": 2,
+      "lapses": 0,
+      "state": "learning",
+      "lastReview": "2026-03-22T11:45:33.009Z"
+    },
+    "createdAt": "2026-03-22T11:41:38.235Z",
+    "updatedAt": "2026-03-22T11:46:14.614Z",
+    "deleted": true
+  }
+]
